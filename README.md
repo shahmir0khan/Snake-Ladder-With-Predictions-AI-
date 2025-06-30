@@ -45,11 +45,6 @@ To develop an AI-powered game where both players (human and AI) must make predic
 - **Pygame**: For creating the graphical user interface (GUI) and handling user interactions.
 - **collections (Counter)**: For analyzing the frequency of past dice rolls and predicting future outcomes.
 
-## Team Members
-
-- **Shahmir Ahmed (22k-4414)**: Designed the prediction interface and implemented the AI logic.
-- **Saad Ahmed (22k-4345)**: Integrated the bonus systems and handled user interaction.
-- **Ali Haris (22k-4239)**: Focused on testing, debugging, and enhancing the game visuals.
 
 ## Installation
 
